@@ -16,9 +16,11 @@
 <a href="https://www.linkedin.com/in/jinhui-zhen-26784b261/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jinhui zhen" height="30" width="40" /></a>
 </p><br>
 
+/*
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jinzeld&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jinzeld&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
+*/
 
 
